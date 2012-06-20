@@ -1,6 +1,6 @@
 general/joddocument - change history
 
-== 0.9.75 == Jun 20, 2012
+== 0.9.76 == Jun 20, 2012
  * PDF JOD documentation split off into a separate addon. The main
    file (jod.pdf) is relatively stable and almost ten times the size
    of the core JOD addon. It has been removed from the core jod addon

@@ -1,0 +1,17 @@
+general/joddocument - change history
+
+== 0.9.75 == Jun 20, 2012
+ * PDF JOD documentation split off into a separate addon. The main
+   file (jod.pdf) is relatively stable and almost ten times the size
+   of the core JOD addon. It has been removed from the core jod addon
+   to reduce download times. (jod.pdf) has been available on the JOD Page 
+   
+   http://bakerjd99.wordpress.com/the-jod-page/
+   
+   for users to download and copy to the correct (jodhelp) 
+   directory but with the proliferation of J platforms and 
+   JOD versions this is getting messy. It's easier to use
+   JAL to distribute this file and change (jodhelp) to 
+   look in this addon's directories.
+ 
+ 

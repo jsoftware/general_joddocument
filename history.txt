@@ -14,4 +14,3 @@ general/joddocument - change history
    JAL to distribute this file and change (jodhelp) to 
    look in this addon's directories.
  
- 

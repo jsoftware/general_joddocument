@@ -1,6 +1,13 @@
 general/joddocument - change history
 ====================================
 
+### 0.9.90 - January 26, 2012
+
+ * `nt` dyad documented.
+ 
+ * version control appendix revised - added reference to
+   [GitHub](https://github.com/bakerjd99/joddumps) `joddumps` repository.
+
 ### 0.9.85 - October 13, 2012
 
  * minor edits - `MARKDOWN` code 27 and `5 disp ''` noted.

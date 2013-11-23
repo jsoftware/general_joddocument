@@ -1,6 +1,10 @@
 general/joddocument - change history
 ====================================
 
+### 0.9.93 - November 23, 2013
+
+  * synchronize `jod.pdf` version with distributed JOD addon. 
+
 ### 0.9.90 - January 26, 2012
 
  * `nt` dyad documented.

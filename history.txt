@@ -1,6 +1,10 @@
 general/joddocument - change history
 ====================================
 
+### 0.9.94 - June 14, 2014
+
+  * JAL version incremented so `joddocument` addon appears for J 8.0x systems
+
 ### 0.9.93 - November 23, 2013
 
   * synchronize `jod.pdf` version with distributed JOD addon. 
@@ -11,7 +15,7 @@ general/joddocument - change history
  
  * version control appendix revised - added reference to
    [GitHub](https://github.com/bakerjd99/joddumps) `joddumps` repository.
-
+   
 ### 0.9.85 - October 13, 2012
 
  * minor edits - `MARKDOWN` code 27 and `5 disp ''` noted.

@@ -1,6 +1,17 @@
 general/joddocument - change history
 ====================================
 
+### 0.9.97 - March 22, 2014
+
+  * changes to `jodhelp` syntax documented
+
+  * changes for J 8.0x systems and JQT
+
+  * changes to `jodsource` noted
+
+  * for more details see the blog post 
+    [JOD Update: Version 0.9.97*](https://bakerjd99.wordpress.com/2015/03/22/jod-update-version-0-9-97/)
+
 ### 0.9.94 - June 14, 2014
 
   * JAL version incremented so `joddocument` addon appears for J 8.0x systems

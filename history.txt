@@ -1,6 +1,10 @@
 general/joddocument - change history
 ====================================
 
+### 0.9.972 - April 5, 2015
+
+  * minor edits to support lab updates
+
 ### 0.9.971 - March 25, 2015
 
   * fix incorrect footnote link

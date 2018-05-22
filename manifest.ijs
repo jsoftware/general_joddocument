@@ -1,6 +1,7 @@
 NB. manifest for JODDOCUMENT
 CAPTION=:'JOD Documentation'
-VERSION=: '0.9.992'
+VERSION=: '0.9.993'
+FOLDER=:'general/joddocument'
 PLATFORMS=:''
 LABCATEGORY=:'General'
 FILES=: 0 : 0
@@ -9,9 +10,6 @@ history.txt
 pdfdoc/jod.pdf
 )
 RELEASE=: ''
-
-FOLDER=: 'general/joddocument'
-
 DESCRIPTION=: 0 : 0
 JOD Document contains (jod.pdf) which documents the JOD system.
 

@@ -1,6 +1,6 @@
 NB. manifest for JODDOCUMENT
 CAPTION=:'JOD Documentation'
-VERSION=: '1.0.0'
+VERSION=: '1.0.1'
 FOLDER=:'general/joddocument'
 PLATFORMS=:''
 LABCATEGORY=:'General'
